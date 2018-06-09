@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+tensorflow = "*"
+keras = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+jupyter = "*"
+plotly = "*"
+sklearn = "*"
+scipy = "*"
+statsmodels = "*"
+
+[requires]
+python_version = "3.6"
